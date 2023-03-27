@@ -45,6 +45,8 @@ This repository will over time include notebooks on: <br> <br>
 <b>7. Machine Learning</b> :brain:
 - basics of machine learning, including supervised and unsupervised learning, classification, regression, and clustering.
 
+<b>8. Fun Projects</b> :tada:
+- various code snippets that were created and collected here along the way
 
 <h2>Contributing</h2> 
 I am always open to feedback and suggestions. If you have any comments or ideas on how I can improve my portfolio or projects, please feel free to open an issue or pull request.
