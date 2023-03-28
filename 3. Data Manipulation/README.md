@@ -1,11 +1,13 @@
+# Data Manipulation 🛠️ #
+  in this section, I will cover various techniques and tools for manipulating data, such as filtering, sorting and creating new column.
 
-<h1>Data Manipulation</h1>
+## Filtering Pandas DataFrames ## 
+ - using dataset <code>cars.csv</code>
 
-<h2>Filtering Pandas DataFrames</h2>
-- using dataset <code>cars.csv</code>
+## Sorting and subsetting ## 
+ - using dataset <code>dogs.csv</code>
 
-<h2>Sorting and subsetting</h2>
+## New column ##
 - using dataset <code>dogs.csv</code>
 
-<h2>New column</h2>
-- using dataset <code>dogs.csv</code>
+
