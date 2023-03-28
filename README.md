@@ -31,10 +31,10 @@ This repository will over time include notebooks on: <br> <br>
 - an essential step in any data analysis project, to gain insights and make informed decisions about your data. In this section, I will cover the different techniques and tools used to explore and understand data - e.g. how to summarize data, detect outliers, visualize distributions, and identify patterns and relationships between variables. 
 
 <b>3. Data Manipulation</b> :hammer_and_wrench:
-- in this section, I will cover various techniques and tools for manipulating data, such as filtering, merging, grouping, and pivoting. 
+- in this section, I will cover various techniques and tools for manipulating data, such as filtering, sorting and subsetting. 
 
 <b>4. Data Cleaning</b> :broom:
-- techniques for cleaning and preprocessing data, including handling missing values, removing duplicates, and transforming data.
+- techniques for cleaning and preprocessing data, including handling missing values, removing duplicates, and transforming data (merging, grouping, and pivoting).
 
 <b>5. Data Visualization</b> :bar_chart:
 - different types of visualizations for exploring and presenting data, including bar charts, line charts, scatter plots, and histograms.
