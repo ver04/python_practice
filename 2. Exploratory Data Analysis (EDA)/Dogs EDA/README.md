@@ -1,4 +1,4 @@
-<h1> Exploratory Data Analysis</h1>
+
 
 <h2>EDA of Dogs dataset</h2>
 - in this exercise I showcase the most common functions and attributes for performing EDA <br>
