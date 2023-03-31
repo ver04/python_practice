@@ -2,3 +2,4 @@
 
 Content:
 - Dogs dataset EDA
+- Sales dataset EDA
