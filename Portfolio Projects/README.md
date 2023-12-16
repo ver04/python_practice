@@ -1,6 +1,6 @@
 <h1>Portfolio Projects</h1>
 
-In this place would after time be a collection of special projects to showcase my Python and Data analysis skills.
+In this place would after time be a curated collection of special projects to showcase my Python and Data analysis skills.
 
 <h2>Guidelines</h2>
 
