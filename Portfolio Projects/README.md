@@ -24,47 +24,4 @@ How to structure your project analysis:
   Source: (svstudioart, Freepik)
 </p>
 
-<h2>Data Scientist Skills</h2>
-
-- Programming Language: Python
-    - Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
-    - Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch
-- SQL
-- Visualization Tools: Tableau, Power BI
-- Database Systems: AWS, Azure, Databrics, Keboola + Snowflake, MySQL, PostgreSQL
-- Data Modeling
-- Data Architectures
-- Methodologies: Inmon & Kimball, Star/Snowflake schema, Agile, Waterfall
-
-<br>
-
-- Other:
-  - Big Data Technologies: Hadoop, Spark, Apache Kafka
-  - Natural Language Processing (NLP) Libraries: NLTK, spaCy
-  - Feature Engineering
-  - Cloud Platforms: Google Cloud Platform (GCP), IBM Cloud
-  - Version Control Systems: Git, SVN
-  - Statistical Analysis and Hypothesis Testing
-  - Time Series Analysis
-  - Deployment Tools: Docker, Kubernetes
-  - Data Cleaning and Preprocessing Techniques
-  - Collaboration and Documentation Tools: Jupyter Notebooks, Confluence, SharePoint
-  - A/B Testing
-  - Experimental Design
-  - Ensemble Learning Techniques
-  - Domain Knowledge in Specific Industries (e.g., Finance, Healthcare, Retail)
-  - Ethical Data Handling and Privacy Considerations
-
-<br>
-
-- Soft-Skills:
-  - <b>Communication:</b> Effectively conveying technical concepts and findings to diverse audiences.
-  - <b>Problem-Solving:</b> Analytical thinking and innovative approaches to resolve complex data challenges.
-  - <b>Critical Thinking:</b> Evaluating data, making data-driven decisions, and identifying trends or patterns.
-  - <b>Adaptability:</b> Flexibility to adjust to changing technologies and project demands.
-  - <b>Collaboration:</b> Working efficiently in cross-functional teams and fostering teamwork.
-  - <b>Creativity:</b> Applying innovative thinking to tackle data problems effectively.
-  - <b>Time Management:</b> Efficiently organizing tasks to meet project deadlines.
-  - <b>Business Analysis:</b> Understanding business objectives to align data insights with organizational goals.
-  - <b>Project Management:</b> Steer projects efficiently towards completion, step by step.
 
