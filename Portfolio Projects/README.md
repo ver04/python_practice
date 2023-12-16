@@ -23,3 +23,48 @@ How to structure your project analysis:
   <br>
   Source: (svstudioart, Freepik)
 </p>
+
+<h2>Data Scientist Skills</h2>
+
+- Programming Language: Python
+    - Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
+    - Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch
+- SQL
+- Visualization Tools: Tableau, Power BI
+- Database Systems: AWS, Azure, Databrics, Keboola + Snowflake, MySQL, PostgreSQL
+- Data Modeling
+- Data Architectures
+- Methodologies: Inmon & Kimball, Star/Snowflake schema, Agile, Waterfall
+
+<br>
+
+- Other:
+  - Big Data Technologies: Hadoop, Spark, Apache Kafka
+  - Natural Language Processing (NLP) Libraries: NLTK, spaCy
+  - Feature Engineering
+  - Cloud Platforms: Google Cloud Platform (GCP), IBM Cloud
+  - Version Control Systems: Git, SVN
+  - Statistical Analysis and Hypothesis Testing
+  - Time Series Analysis
+  - Deployment Tools: Docker, Kubernetes
+  - Data Cleaning and Preprocessing Techniques
+  - Collaboration and Documentation Tools: Jupyter Notebooks, Confluence, SharePoint
+  - A/B Testing
+  - Experimental Design
+  - Ensemble Learning Techniques
+  - Domain Knowledge in Specific Industries (e.g., Finance, Healthcare, Retail)
+  - Ethical Data Handling and Privacy Considerations
+
+<br>
+
+- Soft-Skills:
+  - Communication: Effectively conveying technical concepts and findings to diverse audiences.
+  - Problem-Solving: Analytical thinking and innovative approaches to resolve complex data challenges.
+  - Critical Thinking: Evaluating data, making data-driven decisions, and identifying trends or patterns.
+  - Adaptability: Flexibility to adjust to changing technologies and project demands.
+  - Collaboration: Working efficiently in cross-functional teams and fostering teamwork.
+  - Creativity: Applying innovative thinking to tackle data problems effectively.
+  - Time Management: Efficiently organizing tasks to meet project deadlines.
+  - Business Analysis: Understanding business objectives to align data insights with organizational goals.
+  - Project Management: Steer projects efficiently towards completion, step by step.
+
