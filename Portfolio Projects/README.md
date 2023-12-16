@@ -58,13 +58,13 @@ How to structure your project analysis:
 <br>
 
 - Soft-Skills:
-  - Communication: Effectively conveying technical concepts and findings to diverse audiences.
-  - Problem-Solving: Analytical thinking and innovative approaches to resolve complex data challenges.
-  - Critical Thinking: Evaluating data, making data-driven decisions, and identifying trends or patterns.
-  - Adaptability: Flexibility to adjust to changing technologies and project demands.
-  - Collaboration: Working efficiently in cross-functional teams and fostering teamwork.
-  - Creativity: Applying innovative thinking to tackle data problems effectively.
-  - Time Management: Efficiently organizing tasks to meet project deadlines.
-  - Business Analysis: Understanding business objectives to align data insights with organizational goals.
-  - Project Management: Steer projects efficiently towards completion, step by step.
+  - <b>Communication:</b> Effectively conveying technical concepts and findings to diverse audiences.
+  - <b>Problem-Solving:</b> Analytical thinking and innovative approaches to resolve complex data challenges.
+  - <b>Critical Thinking:</b> Evaluating data, making data-driven decisions, and identifying trends or patterns.
+  - <b>Adaptability:</b> Flexibility to adjust to changing technologies and project demands.
+  - <b>Collaboration:</b> Working efficiently in cross-functional teams and fostering teamwork.
+  - <b>Creativity:</b> Applying innovative thinking to tackle data problems effectively.
+  - <b>Time Management:</b> Efficiently organizing tasks to meet project deadlines.
+  - <b>Business Analysis:</b> Understanding business objectives to align data insights with organizational goals.
+  - <b>Project Management:</b> Steer projects efficiently towards completion, step by step.
 
