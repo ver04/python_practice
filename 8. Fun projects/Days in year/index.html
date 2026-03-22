@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Days in Year</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Courier New', monospace;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .year-display {
+            color: #fff;
+            font-size: 4rem;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+        }
+
+        .separator {
+            color: #888;
+            margin: 0 1rem;
+        }
+
+        .chapter {
+            color: #00ff00;
+            text-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
+        }
+
+        .footer {
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 2rem;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="year-display">
+            Year <span id="year">2026</span>
+            <span class="separator">|</span>
+            <span class="chapter">Chapter <span id="day">81</span>/<span id="total">365</span></span>
+        </div>
+        <div class="footer">Days in Year</div>
+    </div>
+
+    <script>
+        // Update the display with current date
+        function updateDisplay() {
+            const today = new Date();
+            const year = today.getFullYear();
+            const startOfYear = new Date(year, 0, 1);
+            const dayOfYear = Math.floor((today - startOfYear) / (24 * 60 * 60 * 1000)) + 1;
+            
+            // Calculate total days in year
+            const endOfYear = new Date(year, 11, 31);
+            const totalDays = Math.floor((endOfYear - startOfYear) / (24 * 60 * 60 * 1000)) + 1;
+
+            document.getElementById('year').textContent = year;
+            document.getElementById('day').textContent = dayOfYear;
+            document.getElementById('total').textContent = totalDays;
+        }
+
+        // Update on page load
+        updateDisplay();
+
+        // Update every second
+        setInterval(updateDisplay, 1000);
+    </script>
+</body>
+</html>
